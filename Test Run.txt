@@ -1,0 +1,187 @@
+Python 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+========= RESTART: C:\Users\HANSAJA\Desktop\New folder\Prog cw final.py ========
+
+Enter your name :hansaja
+
+									...Hello Welcome hansaja to Game Int...
+
+Number to Guess - (* * * *)														Colour Mapping : 1-White 2-Blue 3-Red
+																			 4-Yellow 5-Green 6-Purple
+
+
+						Attempt No						Guess							Results
+
+
+						 1
+Enter the Guesses :											4512
+																				 ..0.
+
+
+						 2
+Enter the Guesses :											63
+			...Invalied Guess...
+
+Enter four digit guess : 										6541
+																				 1..0
+
+
+						 3
+Enter the Guesses :											9999
+			...Invalied Guess...
+
+Enter guesses between 1 - 6 !!! 									1243
+																				 0..0
+
+
+						 4
+Enter the Guesses :											6341
+																				 10.0
+
+
+						 5
+Enter the Guesses :											6425
+																				 1...
+
+
+						 6
+Enter the Guesses :											2134
+																				 .11.
+
+
+						 7
+Enter the Guesses :											6133
+																				 1110
+
+
+						 8
+Enter the Guesses :											6136
+
+
+
+																			  	1111
+						Congratulations!!!!!   You have won the game...
+
+						You scored 100 points
+
+Do you want to play again? 
+press Y to Play again &  N to End  Y
+
+Enter your name :hansaja h
+
+									...Hello Welcome hansaja h to Game Int...
+
+Number to Guess - (* * * *)														Colour Mapping : 1-White 2-Blue 3-Red
+																			 4-Yellow 5-Green 6-Purple
+
+
+						Attempt No						Guess							Results
+
+
+						 1
+Enter the Guesses :											ghb
+			...Invalied Guess...
+
+Enter four digit guess : 										hnbj
+			...Invalied Guess...
+
+Enter guesses between 1 - 6 !!! 									4123
+																				 000.
+
+
+						 2
+Enter the Guesses :											5236
+																				 .0.0
+
+
+						 3
+Enter the Guesses :											1524
+																				 0.00
+
+
+						 4
+Enter the Guesses :											2365
+																				 0.0.
+
+
+						 5
+Enter the Guesses :											5216
+																				 .010
+
+
+						 6
+Enter the Guesses :											2514
+																				 0.10
+
+
+						 7
+Enter the Guesses :											2146
+																				 0000
+
+
+						 8
+Enter the Guesses :											5613
+																				 .01.
+
+										You lost 
+
+										You scored 00 points
+
+Do you want to play again? 
+press Y to Play again &  N to End  Y
+
+Enter your name :hansaja 3
+
+									...Hello Welcome hansaja 3 to Game Int...
+
+Number to Guess - (* * * *)														Colour Mapping : 1-White 2-Blue 3-Red
+																			 4-Yellow 5-Green 6-Purple
+
+
+						Attempt No						Guess							Results
+
+
+						 1
+Enter the Guesses :											5236
+																				 .00.
+
+
+						 2
+Enter the Guesses :											2341
+																				 11.0
+
+
+						 3
+Enter the Guesses :											2316
+																				 111.
+
+
+						 4
+Enter the Guesses :											2315
+																				 111.
+
+
+						 5
+Enter the Guesses :											2316
+																				 111.
+
+
+						 6
+Enter the Guesses :											2311
+																				 1110
+
+
+						 7
+Enter the Guesses :											2312
+
+
+
+																			  	1111
+						Congratulations!!!!!   You have won the game...
+
+						You scored 100 points
+
+Do you want to play again? 
+press Y to Play again &  N to End  N
+										Thanks for playing...
